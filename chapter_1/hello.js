@@ -1,0 +1,8 @@
+console.log("Hellow world")
+console.log("My name is Mehedi  Azzad")
+console.log(" i'm 24 years old")
+console.log(900)
+console.log(12.456)
+console.log('My favourite number is: '+9)
+console.log(9+9)
+console.log('9'+'9')
